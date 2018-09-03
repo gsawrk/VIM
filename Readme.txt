@@ -1,0 +1,1 @@
+contains VIM settings collected from various sources that I use. Thanks to Ramana and Tiji for sharing
